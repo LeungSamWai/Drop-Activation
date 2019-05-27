@@ -9,5 +9,6 @@ By [Senwei Liang](https://github.com/LeungSamWai), [Yuehaw Kwoo](https://www.goo
 ## Introduction
 Drop-Activation is a regularization method to reduce the risk of overfitting. The key idea is to drop nonlinear activation functions by setting them to be identity functions randomly during training time. During testing, we use a deterministic network with a new activation function to encode the average effect of dropping activations randomly.
 
+![image](https://github.com/LeungSamWai/Drop-Activation/tree/master/images/std-act.pdf)
 ## Acknowledgements
 We thank to [bearpaw](https://github.com/bearpaw) for his well-organized [framework](https://github.com/bearpaw/pytorch-classification) for image classification task. 
