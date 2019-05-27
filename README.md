@@ -1,4 +1,5 @@
 # Drop-Activation: Implicit Parameter Reduction and Harmonious Regularization
+![GitHub](https://img.shields.io/badge/gbup-%E7%A8%B3%E4%BD%8F-blue.svg)
 [![996.ICU](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) 
 
 The repository is the official implementation of paper "Drop-Activation: Implicit Parameter Reduction and Harmonious Regularization" [[paper]](https://arxiv.org/abs/1811.05850).
