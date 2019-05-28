@@ -15,11 +15,12 @@ Drop-Activation is a regularization method to reduce the risk of overfitting. Th
 * [Pytorch](https://pytorch.org/) 1.0.0
 
 ## Citing
+```
 @article{Liang2018Drop,
          title={Drop-Activation: Implicit Parameter Reduction and Harmonic Regularization},
          author={Liang, Senwei and Kwoo, Yuehaw and Yang, Haizhao},
          year={2018},}
-
+```
 
 ## Acknowledgements
 We thank to [bearpaw](https://github.com/bearpaw) for his well-organized pytorch [framework](https://github.com/bearpaw/pytorch-classification) for image classification task. 
