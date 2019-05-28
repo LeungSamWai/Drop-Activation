@@ -17,11 +17,16 @@ Drop-Activation is a regularization method to reduce the risk of overfitting. Th
 ## Usage
 * Clone the repository of Drop-Activation
 ```
-https://github.com/LeungSamWai/Drop-Activation.git
+git clone https://github.com/LeungSamWai/Drop-Activation.git
 ```
-* 
+* Train the WideResNet28-10 using Drop Activation on CIFAR100
+```
+python cifar.py -a da_wrn --dataset cifar100 --depth 28 --depth 28 --widen-factor 10 --drop 0.3 --epochs 200 --schedule 60 120 160 --wd 5e-4 --gamma 0.2 --checkpoint checkpoints/cifar100/WRN-28-10-drop-DropActivation
+```
+
 
 ## Citing
+* Bibtex
 ```
 @article{Liang2018Drop,
          title={Drop-Activation: Implicit Parameter Reduction and Harmonic Regularization},
