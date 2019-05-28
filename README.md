@@ -35,4 +35,4 @@ python cifar.py -a da_wrn --dataset cifar100 --depth 28 --depth 28 --widen-facto
 ```
 
 ## Acknowledgements
-We thank to [bearpaw](https://github.com/bearpaw) for his well-organized pytorch [framework](https://github.com/bearpaw/pytorch-classification) for image classification task. 
+We thank [bearpaw](https://github.com/bearpaw) for his well-organized pytorch [framework](https://github.com/bearpaw/pytorch-classification) for image classification task. 
