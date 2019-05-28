@@ -14,6 +14,13 @@ Drop-Activation is a regularization method to reduce the risk of overfitting. Th
 ## Requirement
 * [Pytorch](https://pytorch.org/) 1.0.0
 
+## Usage
+* Clone the repository of Drop-Activation
+```
+https://github.com/LeungSamWai/Drop-Activation.git
+```
+* 
+
 ## Citing
 ```
 @article{Liang2018Drop,
