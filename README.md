@@ -16,9 +16,12 @@ Drop-Activation is a regularization method to reduce the risk of overfitting. Th
 
 ## Citing
 @article{Liang2018Drop,
-  title={Drop-Activation: Implicit Parameter Reduction and Harmonic Regularization},
-  author={Liang, Senwei and Kwoo, Yuehaw and Yang, Haizhao},
-  year={2018},
+  
+         title={Drop-Activation: Implicit Parameter Reduction and Harmonic Regularization},
+  
+         author={Liang, Senwei and Kwoo, Yuehaw and Yang, Haizhao},
+  
+         year={2018},
 }
 
 
