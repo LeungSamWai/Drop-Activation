@@ -26,7 +26,7 @@ python cifar.py -a da_wrn --dataset cifar100 --depth 28 --depth 28 --widen-facto
 
 
 ## Citing
-* Bibtex
+* If you find it useful in your research, please cite 
 ```
 @article{Liang2018Drop,
          title={Drop-Activation: Implicit Parameter Reduction and Harmonic Regularization},
